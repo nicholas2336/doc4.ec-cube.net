@@ -73,7 +73,7 @@ FileZilla等のファイル転送ソフトを使っても可能ですが、EC-CU
 
 ### EC-CUBEダウンローダーを使ってファイルを展開する
 サードパーティ製のダウンローダーを使うと簡単にEC-CUBEのソースコードをサーバ上に展開できます。
-![EC-CUBE Donwloader screen shot](https://github.com/tao-s/eccube-downloader/raw/master/EC-CUBE_downloader.gif)
+![EC-CUBE Downloader screen shot](https://github.com/tao-s/eccube-downloader/raw/master/EC-CUBE_downloader.gif)
 
 [ここ](https://github.com/tao-s/eccube-downloader/archive/master.zip)からEC-CUBE Downloaderをダウンロードして、以下の手順を踏んでください。
 
@@ -91,7 +91,7 @@ EC-CUBEのインストール画面が表示されたら[インストールウィ
 ----
 
 ### ダウンロードしたパッケージをアップロードする
-**[EC-CUBE Donloaderを使う](#ec-cubeダウンローダーを使ってファイルを展開する)方は不要のステップです。**
+**[EC-CUBE Downloaderを使う](#ec-cubeダウンローダーを使ってファイルを展開する)方は不要のステップです。**
 
 [EC-CUBE 4のパッケージ](https://www.ec-cube.net/download/){:target='_blank'}をダウンロードし、解凍してください。
 
